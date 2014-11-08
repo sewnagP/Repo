@@ -1,4 +1,4 @@
 Repo
 ====
 
-Learning Git, Update in the branch
+Learning Git
